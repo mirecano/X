@@ -1,0 +1,14 @@
+{
+	"dbconf":{
+		"driver":"",
+		"dbname":"",
+		"dbhost":"",
+		"dbuser":"",
+		"dbpass":""
+	},
+	"app":{
+		"version":"",
+		"tittle":"XFramework"
+	}
+
+}
